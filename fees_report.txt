@@ -1,0 +1,73 @@
+Paid Fees Report
+=================
+
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 101
+Amount: 35.00
+Payment Date: 2025-01-20
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 102
+Amount: 30.00
+Payment Date: 2025-01-20
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 101
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 102
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 101
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 102
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 101
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 102
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 101
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
+Company: Domoupravitel Ltd
+Employee: Ivan Ivanov
+Building: Residential Complex 1
+Apartment: 102
+Amount: 5.00
+Payment Date: 2025-01-21
+-------------------------------
